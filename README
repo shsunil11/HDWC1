@@ -1,7 +1,7 @@
 git init
 git add src README pom.xml
 git commit -m "Initial Commit"
-git remote add origin https://github.com/shsunil11/SparkS.git
-git remote set-url origin https://shsunil11@github.com/shsunil11/SparkS.git
+git remote add origin https://github.com/shsunil11/HDWC1.git
+git remote set-url origin https://shsunil11@github.com/shsunil11/HDWC1.git
 git push -u origin master
 
